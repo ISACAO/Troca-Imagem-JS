@@ -11,3 +11,4 @@ botao.onclick = function(){
         botao.innerHTML = '置換 (Trocar)';
     }
 }
+/* marcello esteve aqui */
